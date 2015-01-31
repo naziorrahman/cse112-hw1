@@ -3,7 +3,8 @@ Name  : Md Nazior Rahman
 PID   : A11456525
 Course: CSE 112 (BlueJay - DB/ServerSide Team)
 ```
-
+How to get started:
+---------
 1) Clone the git repository
 
 2)  start the database invoking the following command "npm start"
@@ -22,6 +23,6 @@ GET the data:
 (This command will invoke all the datas from the database)
 
 DELETE data using their respective ID:
--------
+----------
 	curl -X DELETE localhost:3000/api/comment/XXX
 (where XXX is the ID, from the database)
