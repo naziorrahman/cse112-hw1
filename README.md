@@ -5,8 +5,10 @@ PID   : A11456525
 Course: CSE 112 (BlueJay - DB/ServerSide Team)
 
 1) Clone the git repository
+
 2)  start the database invoking the following command "npm start"
     This command will start the database.
+    
 3) POST, GET, and DELETE datas using the following commands
 
 POST on the database:
