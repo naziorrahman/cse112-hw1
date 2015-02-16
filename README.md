@@ -1,5 +1,5 @@
 ```
-Name  : Md Nazior Rahman
+Name  : Nazior Rahman
 PID   : A11456525
 Course: CSE 112 (BlueJay - DB/ServerSide Team)
 ```
