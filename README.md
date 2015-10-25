@@ -5,19 +5,19 @@ Course: CSE 112 (BlueJay - DB/ServerSide Team)
 ```
 How to get started:
 ---------
-1) Clone the git repository
+1) Clone the git repository.
 
-2)  start the database invoking the following command "npm start"
-    This command will start the database.
+2)  Start the database by invoking the following command "npm start."
+    This command will open up the database.
     
-3) POST, GET, and DELETE datas using the following commands
+3) POST, GET, and DELETE datas using the following commands:
 
 POST on the database:
 ---------
 	curl -X POST localhost:3000/api/comment --data "comment=XXX"
 (replace XXX with appropriate message)
 
-GET the data:
+GET the datas:
 ----------
 	curl -X GET localhost:3000/api/comment --data
 (This command will invoke all the datas from the database)
